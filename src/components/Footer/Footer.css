@@ -1,0 +1,29 @@
+/* Footer styles  */
+footer {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+    background-color: #212529;
+}
+.contact-icon {
+    font-size: 20px;
+    margin-bottom: 0;
+    color: white;
+}
+.copyright {
+    font-size: 17px;
+    margin-bottom: 0;
+}
+footer i {
+    margin-right: 10px;
+}
+
+/* Media query for mobile devices  */
+@media only screen and (max-width:575px) {
+    .contact-icon {
+        font-size: 15px;
+    }
+    .copyright {
+        font-size: 13px;
+    }
+}

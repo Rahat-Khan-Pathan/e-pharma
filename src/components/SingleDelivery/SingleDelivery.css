@@ -1,0 +1,30 @@
+/* Single delivery component styles  */
+.delivery-img {
+  width: 100px;
+}
+.delivery-value {
+  font-weight: 600;
+  margin: 0;
+}
+.delivery-text {
+  font-weight: 500;
+  color: gray;
+  margin: 0;
+}
+.delivery-card {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+/* Media query for mobile devices */
+@media only screen and (max-width: 575px) {
+  .delivery-text {
+    font-size: 12px;
+  }
+  .delivery-value {
+    font-size: 15px;
+  }
+  .delivery-img {
+    width: 70px;
+  }
+}

@@ -1,0 +1,45 @@
+/* Details component styles  */
+.details-container {
+    margin-top: 100px;
+    padding-bottom: 100px;
+    min-height: 100vh;
+}
+.details {
+    font-size: 15px;
+}
+#quantity-input {
+    width: 20%;
+    text-align: center;
+    font-weight: 700;
+    height: 35px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border: 2px solid #16a085;
+    border-radius: 10%;
+}
+.error {
+    color: red;
+}
+.success {
+    color: green;
+}
+.error, .success{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.fa-minus-square, .fa-plus-square {
+    font-size: 15px;
+}
+
+/* Media query for mobile devices  */
+@media only screen and (max-width:575px) {
+    .details {
+        font-size: 12px;
+    }
+    .success, .error {
+        font-size: 12px;
+    }
+    .details-container {
+        min-height: 80vh;
+    }
+}

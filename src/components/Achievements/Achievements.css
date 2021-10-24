@@ -1,0 +1,18 @@
+/* Achievements section styles  */
+.delivery-container {
+    margin-top: 100px; 
+}
+.delivery-header {
+    font-weight: 600;
+    border-bottom: 3px solid #16a085;
+}
+
+/* Media query for mobile devices  */
+@media only screen and (max-width:575px) {
+    .delivery-header {
+        font-size: 15px;
+    }
+    .delivery-container {
+        margin-top: 50px;
+    }
+}

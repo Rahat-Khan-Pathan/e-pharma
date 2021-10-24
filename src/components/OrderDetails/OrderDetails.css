@@ -1,0 +1,18 @@
+/* Order details styles  */
+.order-container {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.order-text {
+  font-size: 18px;
+}
+
+/* Media query for mobile devices  */
+@media only screen and (max-width: 575px) {
+  .order-text {
+    font-size: 12px;
+  }
+  .order-container {
+    margin-top: 50px;
+  }
+}

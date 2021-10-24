@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "name": "Sergel 20",
+        "type": "Capsule",
+        "image": "https://cdn.osudpotro.com/medicine/sergel-20-mg-1631528299689.webp",
+        "company": "Healthcare Pharmaceuticals Ltd",
+        "price": "8.75",
+        "description": "Sergel capsules include an enteric-coated pellet formulation of esomeprazole magnesium for absorption. Peak plasma levels (Cmax) occur around 1.5 hours after oral dosing (Tmax). When the dosage is increased, the Cmax increases proportionately, and the area under the plasma concentration-time curve (AUC) increases thrice from 20 to 40 mg. The systemic bioavailability is around 90% with repeated once-daily dosage, compared to 64% after a single dose. When compared to fasting circumstances, the AUC following a single dosage of esomeprazole is reduced by 33-53 percent after food ingestion. Take esomeprazole at least one hour before meals."
+    },
+    {
+        "id": "2",
+        "name": "Azyth 500",
+        "type": "Tablet",
+        "image": "https://cdn.osudpotro.com/medicine/azyth-500-1629804200698.webp",
+        "company": "Sandoz Bangladesh Limited",
+        "price": "52.73",
+        "description": "Azithromycin is acid-stable and can subsequently be taken orally with no require of security from gastric acids. It is promptly ingested; its retention is more noteworthy on a purge stomach. Time to top concentration in grown-ups is 2.1 to 3.2 hours for verbal measurement shapes. Due to the tall concentration in phagocytes, azithromycin is effectively transported to the location of the disease. Amid dynamic phagocytosis, huge concentrations of azithromycin are discharged. The concentration of azithromycin within the tissues can be over 50 times higher than in plasma. This is often due to particle catching and tall lipid solubility."
+    },
+    {
+        "id": "3",
+        "name": "Moxaclav 625",
+        "type": "Tablet",
+        "image": "https://cdn.osudpotro.com/medicine/2240-removebg-preview1-1630140926052.webp",
+        "company": "Square Pharmaceuticals Limited",
+        "price": "30.40",
+        "description": "Co-amoxiclav is an antibacterial combination comprising of the anti-microbial Amoxicillin and the (3-lactamase inhibitor Clavulanic Corrosive. Amoxicillin features a wide range of bactericidal movement against numerous Gram-positive & Gram-negative microorganisms but it is vulnerable to corruption by (3-lactamases and thus the range of action does not incorporate microorganisms, which create these proteins. Clavulanic corrosive has the capacity to inactivate a wide run of beta-lactamase proteins commonly found in microorganisms safe to penicillins and cephalosporins. In this way Clavulanic corrosive in this arrangement secures Amoxicillin from corruption by (3-lactamase chemicals and successfully expands the anti-microbial range to grasp a wide run of microorganisms."
+    },
+    {
+        "id": "4",
+        "name": "Napa Extra",
+        "type": "Tablet",
+        "image": "https://cdn.osudpotro.com/medicine/napa-extra-1630001325835-removebg-preview-1630562777966.webp",
+        "company": "Beximco Pharmaceuticals Ltd",
+        "price": "2.38",
+        "description": "Paracetamol is an analgesic and antipyretic with just a little anti inflammatory effect. Paracetamol (Acetaminophen) is considered to work largely in the central nervous system (CNS), raising pain threshold by blocking both isoforms of the cyclooxygenase enzymes COX-1, COX-2, and COX3,which are involved in prostaglandin (PG) production.Paracetamol is a para aminophenol derivative that possesses analgesic, antipyretic, and anti-inflammatory effects.  One of the most commonly used, safest, and fastest acting analgesics is paracetamol. It is well tolerated and devoid of aspirin's numerous adverse effects."
+    },
+    {
+        "id": "5",
+        "name": "Brodil 4",
+        "type": "Tablet",
+        "image": "https://cdn.osudpotro.com/medicine/brodil-4-1631604326642.webp",
+        "company": "ACI Limited",
+        "price": "0.44",
+        "description": "Salbutamol is a selective beta2-adrenoceptor agonist. At therapeutic doses, it acts on the beta 2-adrenoceptors of bronchial smooth muscle, with little or no action on the ß1-adrenoceptors of cardiac muscle. Salbutamol provides short-acting (4-6 hours) bronchodilatation with a fast onset (within 5 minutes) in reversible airways obstruction. It also has an anti-inflammatory effect on mast cells causing inhibition of release of bronchoconstrictor mediators including histamine, neutrophil chemotactic factor (NCF), and prostaglandin D2."
+    },
+    {
+        "id": "6",
+        "name": "Ace 500",
+        "type": "Tablet",
+        "image": "https://cdn.osudpotro.com/medicine/ace-500-1631364310354.webp",
+        "company": "Square Pharmaceuticals Limited",
+        "price": "0.76",
+        "description": "Paracetamol has analgesic and antipyretic properties, and its anti-inflammatory activity is weak. Paracetamol (acetaminophen) is believed to act mainly on the central nervous system, increasing the pain threshold by inhibiting two isoforms of cyclooxygenase COX1, COX2 and COX3, which are involved in the synthesis of prostaglandin (PG). Paracetamol is a derivative of p-aminophenol, has analgesic and antipyretic effects, and has weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest, and quick-acting analgesics. It is well tolerated and does not have various aspirin side effects."
+    }
+]
